@@ -39,5 +39,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/rodrigo-cruz-veloz-a2a136230/"><img alt="LinkedIn" src="https://img.shields.io/badge/Rodrigo%20Cruz-Linkedin-blue"></a>
 <a href="https://www.instagram.com/sergiorcruzv/?hl=es-la"><img alt="Instagram" src="https://img.shields.io/badge/Rodrigo%20Cruz-Instagram-blue"></a>
-<a href="giozurc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Rodrigo%20Cruz-Email-orange"></a>
+<p> Email address: rodcruz2001@outlook.com or giozurc@gmail.com</p>
 </p>
