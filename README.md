@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring in depth React Frameworks and developing personal projects
-- 🎓 &nbsp; To study Data Science at Czech University of Life Science in Prague.
+- 🎓 &nbsp; Soon: Data Science at Czech University of Life Science in Prague.
 - 🌱 &nbsp; Learning more about Fullstack web applications and Data Structures and Algorithms
 - ✍️ &nbsp; Pursuing business and investments as side hustles, videogaming as a hobby
 
